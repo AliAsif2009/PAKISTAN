@@ -1,0 +1,13 @@
+body > h1{
+    color: #E0E0E0;
+    text-decoration: underline double rgb(2, 244, 164);
+}
+body{
+    background-color: brown;
+}
+body > p{
+ color: aliceblue;
+}
+body > strong{
+    color: coral;
+}
